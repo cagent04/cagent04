@@ -8,7 +8,7 @@
 
 
 
-<p align="center">👀 &nbsp;Besucher Count</p>
+<p align="center">👀 &nbsp;</p>
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/cagent04/count.svg" />
